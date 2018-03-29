@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Colorogy:jar">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="Colorogy.jar">
+      <element id="module-output" name="Colorogy" />
+    </root>
+  </artifact>
+</component>
